@@ -1,0 +1,28 @@
+# macOS / editors
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+
+# Swift build products
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Generated apps / packages are distributed separately.
+*.app/
+*.zip
+*.dmg
+
+# Local-only inputs and credentials
+.env
+.env.*
+*.txt
+*.log
+
+# Only the deliberately published current package and its checksum belong here.
+!/downloads/*.zip
+!/downloads/SHA256SUMS.txt
