@@ -1,8 +1,8 @@
-# 隐阅 · StealthReader
+# 工作党✖️小说妹的双重狂喜
 
 <img src="Resources/AppIcon.png" alt="StealthReader 图标" width="112">
 
-一个轻量的 macOS 本地 TXT 阅读器。把窗口缩成一小块，鼠标移开控制区后，只留下正文和底色；需要操作时，将鼠标移到左上角即可。
+一个轻量的 macOS 本地 TXT 阅读器。窗口自由缩放，鼠标移开后，留下无边缘阅读器；完美融入工作文档，老板站我身后都不怕！
 
 使用 **SwiftUI + AppKit** 编写，无第三方运行依赖，无需账号，不上传书籍。
 
