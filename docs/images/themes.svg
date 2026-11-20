@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="676" viewBox="0 0 1200 676" role="img" aria-labelledby="title desc">
+  <title id="title">隐阅现有六套配色预览</title>
+  <desc id="desc">白色、浅雾白、深灰、深蓝灰、石墨灰、深靛灰。每块展示实际底色、字色与示例正文；预览字号统一，字体以设备可用字体为准。</desc>
+  <rect width="1200" height="676" rx="20" fill="#ECEFF3"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif" fill="#222836">
+    <text x="36" y="49" font-size="25" font-weight="600">六套配色，把阅读藏进日常界面</text>
+    <text x="36" y="80" font-size="16" fill="#5A6575">按 App 实际色值绘制 · 点击半黑半白图标即可选择</text>
+  </g>
+  <g transform="translate(32 104)">
+    <rect width="558" height="164" rx="12" fill="#FFFFFF" stroke="#D6DBE3"/>
+    <g fill="#1F1F1F">
+      <text x="24" y="38" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="19" font-weight="600">白色</text>
+      <text x="24" y="83" font-family="'Songti SC', 'Noto Serif CJK SC', serif" font-size="24">工位不动，故事翻页。</text>
+      <text x="24" y="119" font-family="'Songti SC', 'Noto Serif CJK SC', serif" font-size="19">适合白底新闻、普通文档。</text>
+      <text x="24" y="148" font-family="Menlo, monospace" font-size="12">BG #FFFFFF · TEXT ≈ #1F1F1F</text>
+    </g>
+  </g>
+  <g transform="translate(610 104)">
+    <rect width="558" height="164" rx="12" fill="#F7F8FB" stroke="#D6DBE3"/>
+    <g fill="#171A26">
+      <text x="24" y="38" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="19" font-weight="600">浅雾白</text>
+      <text x="24" y="83" font-family="'Songti SC', 'Noto Serif CJK SC', serif" font-size="24">工位不动，故事翻页。</text>
+      <text x="24" y="119" font-family="'Songti SC', 'Noto Serif CJK SC', serif" font-size="19">适合偏冷白的工作页面。</text>
+      <text x="24" y="148" font-family="Menlo, monospace" font-size="12">BG #F7F8FB · TEXT #171A26</text>
+    </g>
+  </g>
+  <g transform="translate(32 288)">
+    <rect width="558" height="164" rx="12" fill="#121314"/>
+    <g fill="#DBDBDB">
+      <text x="24" y="38" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="19" font-weight="600">深灰</text>
+      <text x="24" y="83" font-family="'Songti SC', 'Noto Serif CJK SC', serif" font-size="24">工位不动，故事翻页。</text>
+      <text x="24" y="119" font-family="'Songti SC', 'Noto Serif CJK SC', serif" font-size="19">适合接近黑色的深色页面。</text>
+      <text x="24" y="148" font-family="Menlo, monospace" font-size="12">BG #121314 · TEXT ≈ #DBDBDB</text>
+    </g>
+  </g>
+  <g transform="translate(610 288)">
+    <rect width="558" height="164" rx="12" fill="#0D1116"/>
+    <g fill="#828C9D">
+      <text x="24" y="38" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="19" font-weight="600">深蓝灰</text>
+      <text x="24" y="83" font-family="'Songti SC', 'Noto Serif CJK SC', serif" font-size="24">工位不动，故事翻页。</text>
+      <text x="24" y="119" font-family="'Songti SC', 'Noto Serif CJK SC', serif" font-size="19">适合低对比度的深色界面。</text>
+      <text x="24" y="148" font-family="Menlo, monospace" font-size="12">BG #0D1116 · TEXT #828C9D</text>
+    </g>
+  </g>
+  <g transform="translate(32 472)">
+    <rect width="558" height="164" rx="12" fill="#191D24"/>
+    <g fill="#E8EAEF" font-family="-apple-system, 'PingFang SC', sans-serif">
+      <text x="24" y="38" font-size="19" font-weight="600">石墨灰</text>
+      <text x="24" y="83" font-size="24">工位不动，故事翻页。</text>
+      <text x="24" y="119" font-size="19">适合深色文档、工作台。</text>
+      <text x="24" y="148" font-family="Menlo, monospace" font-size="12">BG #191D24 · TEXT #E8EAEF</text>
+    </g>
+  </g>
+  <g transform="translate(610 472)">
+    <rect width="558" height="164" rx="12" fill="#1D1F2E"/>
+    <g fill="#E6E8EF" font-family="Menlo, 'PingFang SC', sans-serif">
+      <text x="24" y="38" font-size="19" font-weight="600">深靛灰</text>
+      <text x="24" y="83" font-size="24">工位不动，故事翻页。</text>
+      <text x="24" y="119" font-size="19">适合偏蓝紫的深色编辑界面。</text>
+      <text x="24" y="148" font-size="12">BG #1D1F2E · TEXT #E6E8EF</text>
+    </g>
+  </g>
+  <text x="36" y="660" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="13" fill="#5A6575">仅展示已有预设，不代表自动取色；预览字号统一，字体显示取决于设备。</text>
+</svg>

@@ -10,6 +10,20 @@
 
 当前版本：**1.14.1** · 系统要求：**macOS 13 或更高版本**
 
+## 工位没动，人已进书里
+
+表面看新闻，实际追剧情；表面写周报，脑内已下班。
+
+<p>
+  <a href="docs/images/showcase-news.png"><img src="docs/images/showcase-news.png" alt="白底新闻页面中的隐阅阅读效果示意" width="32%"></a>
+  <a href="docs/images/showcase-weekly-report.png"><img src="docs/images/showcase-weekly-report.png" alt="浅色工作周报中的隐阅阅读效果示意" width="32%"></a>
+  <a href="docs/images/showcase-dark-document.png"><img src="docs/images/showcase-dark-document.png" alt="深色工作文档中的隐阅阅读效果示意" width="32%"></a>
+</p>
+
+从左到右：白底新闻、工作周报、深色文档。点击小图可看大图，找找哪一句已经不在上班。
+
+> 场景图由 AI 生成，背景与小说正文均为虚构，用于说明隐藏控件后的视觉效果，并非实机截图。实际使用时，需要手动选择接近背景的配色。
+
 ## 下载与安装
 
 1. [下载 v1.14.1 App 压缩包](downloads/StealthReader-macOS-arm64-v1.14.1.zip?raw=true)（Apple Silicon / arm64）。
@@ -51,6 +65,13 @@
 
 ## 配色
 
+给阅读换件工服。下面展示的是 App 现有的六套配色，可按工作页面的底色手动选择。
+
+![隐阅六套配色预览：白色、浅雾白、深灰、深蓝灰、石墨灰、深靛灰](docs/images/themes.svg)
+
+<details>
+<summary>查看具体色值与字体</summary>
+
 | 名称 | 底色 | 字色 | 字体 |
 | --- | --- | --- | --- |
 | 白色 | 白色 | 深灰 | 宋体 |
@@ -59,6 +80,8 @@
 | 石墨灰 | `#191D24` | `#E8EAEF` | 苹方常规 |
 | 深靛灰 | `#1D1F2E` | `#E6E8EF` | 中文苹方，英文及数字 Menlo 等宽 |
 | 浅雾白 | `#F7F8FB` | `#171A26` | 宋体 |
+
+</details>
 
 白色、深灰、深蓝灰、浅雾白共用普通字号设置，首次使用默认 18 点。石墨灰和深靛灰分别记忆字号，默认分别为 20 点和 24 点；这两套样式保留抗锯齿、关闭额外的字体平滑加厚。
 
