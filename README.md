@@ -1,8 +1,8 @@
-# 工作党✖️小说妹的双重狂喜
+# 隐阅｜打工人✖️小说妹 的双重狂喜
+打工人的 macOS 摸鱼阅读器。表面看周报，实际追剧情。窗口缩成一小条，鼠标移开，边框和按钮就消失，留下无边缘阅读器，完美融入工作文档，老板站我身后都不怕！
 
 <img src="Resources/AppIcon.png" alt="StealthReader 图标" width="112">
 
-一个轻量的 macOS 本地 TXT 阅读器。窗口自由缩放，鼠标移开后，留下无边缘阅读器；完美融入工作文档，老板站我身后都不怕！
 <img width="33%" alt="隐阅阅读器使用效果" src="https://github.com/user-attachments/assets/f48a64b9-ea40-4939-a9ac-05af1f7f3039" />
 
 
