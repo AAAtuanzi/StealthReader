@@ -3,6 +3,8 @@
 <img src="Resources/AppIcon.png" alt="StealthReader 图标" width="112">
 
 一个轻量的 macOS 本地 TXT 阅读器。窗口自由缩放，鼠标移开后，留下无边缘阅读器；完美融入工作文档，老板站我身后都不怕！
+<img width="1698" height="1054" alt="image" src="https://github.com/user-attachments/assets/f48a64b9-ea40-4939-a9ac-05af1f7f3039" />
+
 
 使用 **SwiftUI + AppKit** 编写，无第三方运行依赖，无需账号，不上传书籍。
 
